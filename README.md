@@ -1,7 +1,7 @@
 # SpotMicro
 Cognitive Robotics BEP - TU Delft
 
-# Inleiding
+# Introduction
 wij zien wij, wie begeleiden ons 
 wat is het project
 wat is het doel, onderzoeksvraag
