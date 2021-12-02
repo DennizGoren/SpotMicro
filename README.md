@@ -1,8 +1,6 @@
 # SpotMicro
 Cognitive Robotics BEP - TU Delft
 
-![alt text](file:///Users/toonpeters/Downloads/Evolutie%20Mirte.jpg)
-
 # Introduction
 wij zien wij, wie begeleiden ons 
 wat is het project
