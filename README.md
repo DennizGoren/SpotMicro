@@ -1,5 +1,6 @@
 # ROS-based SpotMicro 
-TU Delft - Mechanical Engineering (Cognitive Robotics) Bachelor's Thesis 
+TU Delft - Mechanical Engineering (Cognitive Robotics) Bachelor's Thesis
+
 <img src="Docs/Final_Design.jpg" width="400"/>
 ## Introduction
 According to 'How robots change the world' by Oxford Economics, Robots could take over 20 million jobs by 2030. It is no longer a question of if robotics will shape our future, but how much and in what ways. This makes teaching young students about robotics all the more important. 
