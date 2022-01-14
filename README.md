@@ -1,4 +1,4 @@
-# SpotMicro
+# ROS-based SpotMicro 
 TU Delft - Mechanical Engineering (Cognitive Robotics) Bachelor's Thesis 
 <img src="Docs/Final_Design.jpg" width="400"/>
 ## Introduction
