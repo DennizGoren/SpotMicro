@@ -7,9 +7,7 @@ The parts that were customized to house the Mirte hardware are all in this folde
 
 <img src="Docs/CircuitBoardB&Y.PNG" height="300"/><img src="Docs/CircuitBoardB&Y_Components.PNG"  height = "300"/>
 
-Below, a table with all components can be found, along with a price. 
-
-<a test="https://nl.wikipedia.org/wiki/Euroteken"></a>
+Below, a table with all components can be found, along with a price. The components are hyperlinked to sites like Aliexpress, Amazon and Conrad. (Disclaimer: prices are more or less indicative as they tend to vary over time.) 
 
 | **Component** | **Unit Price** | **Quantity** | **Price** | 
 | --- | --- | --- | --- |
