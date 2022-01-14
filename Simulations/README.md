@@ -10,7 +10,7 @@ done with the use of Coach 7 and Python.
 The SolidWorks motion study modeled the following movements and returned the torques that were deliverd by the motors in the joints. 
 The results of this motion study are plotted in the graphs below. 
 ![Simultaneous rise simulation SolidWorks](Docs/StandUp-2.gif)
-<img src="Docs/Front_Wrist_Simultaneous.png" height="188"/><img src="Docs/Rear_Wrist_Simultaneous.png" height="188"/><img src="Docs/Front_Elbow_Simultaneous.png" height="188"/><img src="Docs/Front_Elbow_Simultaneous.png" height="188"/>
+<img src="Docs/Front_Wrist_Simultaneous.png" height="190"/><img src="Docs/Rear_Wrist_Simultaneous.png" height="190"/><img src="Docs/Front_Elbow_Simultaneous.png" height="190"/><img src="Docs/Front_Elbow_Simultaneous.png" height="190"/>
 
 The peak in motor torque is 732 N-mm and witnessed in the wrists of the front legs of the robot.  
 
