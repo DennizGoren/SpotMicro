@@ -19,11 +19,9 @@ The peak in motor torque is 732 N-mm and witnessed in the wrists of the front le
 <img src="Docs/Front_Wrist_RearFirst.png" height="189"/><img src="Docs/Rear_Wrist_RearFirst.png" height="188"/><img src="Docs/Front_Elbow_Rearfirst.png" height="188"/><img src="Docs/Rear_Elbow_RearFirst.png" height="188"/>
 
 The peak in motor torque is 702 N-mm and witnessed in the wrists of the front legs of the robot.  
-
 From these simulations it became clear that standing up with the rear legs first requires less torque from the motors. 
 
-Next to the motion a study, a dynamical kinematics model was made with the help of a python script. This theoretical model will calculate the required torques based on two components: the force of gravity and the angular momentum of the servo motors. The model simulates the movement of the servomotors: it outputs the velocity and acceleration of the servomotors at their respective position and thus gives
-an insight in the requirements the motors.
+Next to the motion a study, a dynamical kinematics model was made with the help of a python script. This theoretical model will calculate the required torques based on two components: the force of gravity and the angular momentum of the servo motors. The model simulates the movement of the servomotors: it outputs the velocity and acceleration of the servomotors at their respective position and thus gives an insight in the requirements the motors. See the paper for a more thorough explanation of the model. 
 The code of this model can be found in the Code folder. 
 
 <img src="Docs/torque-02.png" height="300"/>
