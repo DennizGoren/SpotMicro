@@ -11,23 +11,23 @@ Below, a table with all components can be found, along with a price.
 
 | **Component** | **Unit Price** | **Quantity** | **Price** | 
 | --- | --- | --- | --- |
-| MG996R servomotor | €x | 12 | €x |
-| Orange Pi Zero | €x | 1 | €x |
-| STM32 Microcontroller | €x | 1 | €x |
-| Micro SD Card (at least 16 GB)| €x | 1 | €x |
-| PLA for 3D print design | €x | 1 kg | x |
-| Terminal blocks | €x | 2 | x |
-| USB step down converter | €x | 1 | €x |
-| LiPo battery pack | €x | 1 | €x |
-| XT60 cable | €x | 1 | €x |
-| Pack of jumper cables | €x | 1 | €x |
-| 4mm2 Electrical cable | €x | 0.30m | €x |
-| Toggle switch| €x | 2 | €x |
-| M3 nuts | €x | 1 | €x |
-| M2 nuts | €x | 1 | €x |
-| M3x8 bolts | €x | 2 | €x |
-| M3x20 bolts | €x | 2 | €x |
-| M2x8 bolts | €x | 2 | €x |
-| Ball bearing | €x | 8 | €x |
+| MG996R servomotor | €0.95 | 12 | €11.40 |
+| Orange Pi Zero | €18.30 | 1 | €18.30 |
+| STM32 Microcontroller | €3.28 | 1 | €3.28 |
+| Micro SD Card (at least 16 GB)| €1.52 | 1 | €€1.52 |
+| PLA for 3D print design | €18.00(€/kg) | 1 kg | €18.00 |
+| Terminal blocks | €0.75 | 2 | €1.50 |
+| USB step down converter | €0.79 | 1 | €0.79 |
+| LiPo battery pack | €28.50 | 1 | €28.50 |
+| XT60 cable | €6.60 | 1 | €6.60 |
+| Pack of jumper cables | €1.79 | 1 | €1.79 |
+| 4mm2 Electrical cable | €0.86 (€/m) | 0.30m | €0.26 |
+| Toggle switch| €2.13 | 2 | €4.26 |
+| M3 nuts | €1.35 | 1 | €1.35 |
+| M2 nuts | €1.35 | 1 | €1.35 |
+| M3x8 bolts | €2.05 | 2 | €4.10 |
+| M3x20 bolts | €2.95 | 2 | €5.90 |
+| M2x8 bolts | €2.75 | 2 | €5.50 |
+| Ball bearing | €2.65 | 8 | €20.48 |
 | **Total** | | | **€134.88** | 
 
