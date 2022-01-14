@@ -1,1 +1,0 @@
-https://docs.google.com/viewer?url=${/Docs/BEP_SpotMicro.pdf}
