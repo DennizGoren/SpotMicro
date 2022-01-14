@@ -16,7 +16,7 @@ The peak in motor torque is 732 N-mm and witnessed in the wrists of the front le
 
 <img src="Docs/RearFirst-2.gif" width="1008"/>
 
-<img src="Docs/Front_Wrist_RearFirst.png" height="189"/><img src="Docs/Rear_Wrist_RearFirst.png" height="187"/><img src="Docs/Front_Elbow_Rearfirst.png" height="187"/><img src="Docs/Rear_Elbow_RearFirst.png" height="187"/>
+<img src="Docs/Front_Wrist_RearFirst.png" height="189"/><img src="Docs/Rear_Wrist_RearFirst.png" height="188"/><img src="Docs/Front_Elbow_Rearfirst.png" height="188"/><img src="Docs/Rear_Elbow_RearFirst.png" height="188"/>
 
 The peak in motor torque is 702 N-mm and witnessed in the wrists of the front legs of the robot.  
 
