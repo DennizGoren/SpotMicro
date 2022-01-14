@@ -21,15 +21,15 @@ Below, a table with all components can be found, along with a price.
 | [Terminal blocks](https://www.amazon.nl/Fixpoint-77008-kroonluchter-mm²-transparant/dp/B000V8GR9O/ref=asc_df_B000V8GR9O/?tag=nlshogostdde-21&linkCode=df0&hvadid=430516654065&hvpos=&hvnetw=g&hvrand=7825961289045030379&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102681&hvtargid=pla-563290875765&psc=1) | €0.75 | 2 | €1.50 |
 | [USB step down converter](https://nl.aliexpress.com/item/4001333967589.html?spm=a2g0o.productlist.0.0.5c1e768edVk81I&algo_pvid=1c34160a-47b6-40a6-993f-5e1f6ad4af4c&algo_exp_id=1c34160a-47b6-40a6-993f-5e1f6ad4af4c-8&pdp_ext_f=%7B%22sku_id%22%3A%2210000015725504190%22%7D&pdp_pi=-1%3B1.01%3B-1%3BEUR+1.03%40salePrice%3BEUR%3Bsearch-mainSearch) | €0.79 | 1 | €0.79 |
 | [LiPo battery pack](https://www.conrad.nl/p/hacker-life-accupack-66-v-2100-mah-aantal-cellen-2-30-c-softcase-xt60-2178343) | €28.50 | 1 | €28.50 |
-| [XT60 cable]() | €6.60](https://www.conrad.nl/p/modelcraft-58378-10-accu-kabel-1x-xt60-stekker-1x-open-kabeleinde-1000-cm-40-mm-1235115) | 1 | €6.60 |
+| [XT60 cable](https://www.conrad.nl/p/modelcraft-58378-10-accu-kabel-1x-xt60-stekker-1x-open-kabeleinde-1000-cm-40-mm-1235115) | €6.60 | 1 | €6.60 |
 | [Pack of jumper cables](https://www.otronic.nl/a-60558956/draden-en-kabels/dupont-jumper-kabels-40-stuks-male-female-10cm-draadbruggen-voor-breadboard/?gclid=CjwKCAiA24SPBhB0EiwAjBgkhs34E6plQEu0S3aOKrqz6WE9zx5ikIWMsC2dBW09zjhE_Ow84x3tfxoCqbUQAvD_BwE) | €1.79 | 1 | €1.79 |
 | [4mm2 Electrical cable](https://www.elektramat.nl/aansluitdraad-4-mm-zwart-per-meter/?channable=0141ac69640036313037393694&utm_source=google-surfaces&utm_medium=organic&gclid=CjwKCAiA24SPBhB0EiwAjBgkhrjp0bcmZ-KZkcf-ek8s6mUlvqz808ktepDndP6SzPL20EEk9E3vZxoC7pkQAvD_BwE) | €0.86 (€/m) | 0.30m | €0.26 |
 | [Toggle switch](https://www.amazon.nl/PEREL-8013AC-tuimelschakelaar-verticaal-aan-één/dp/B01E03NGLC/ref=sr_1_64?__mk_nl_NL=ÅMÅŽÕÑ&keywords=tuimelschakelaar&qid=1642166485&sr=8-64) | €2.13 | 2 | €4.26 |
 | [M3 nuts](https://www.toolstation.nl/zeskantmoer/p20200) | €1.35 | 1 | €1.35 |
 | [M2 nuts](https://www.toolstation.nl/zeskantmoer/p20199) | €1.35 | 1 | €1.35 |
-| [M3x8 bolts]() | €2.05 | 2 | €4.10 |
-| [M3x20 bolts]() | €2.95 | 2 | €5.90 |
-| [M2x8 bolts]() | €2.75 | 2 | €5.50 |
-| [Ball bearing]() | €2.65 | 8 | €20.48 |
+| [M3x8 bolts](https://www.123-3d.nl/123-3D-Metaalschroef-inbus-M3x8-cilinderkop-verzinkt-50-stuks-i3078-t3122.html) | €2.05 | 2 | €4.10 |
+| [M3x20 bolts](https://www.123-3d.nl/123-3D-Metaalschroef-inbus-M3x20-cilinderkop-verzinkt-50-stuks-i1175-t3122.html) | €2.95 | 2 | €5.90 |
+| [M2x8 bolts](https://www.123-3d.nl/123-3D-Metaalschroef-bolkop-M2x8-verzinkt-50-stuks-i4739-t16149.html) | €2.75 | 2 | €5.50 |
+| [Ball bearing](https://www.conrad.nl/p/reely-kogellager-radiaal-chroomstaal-binnendiameter-5-mm-buitendiameter-16-mm-toerental-max-43000-omwmin-214442) | €2.65 | 8 | €20.48 |
 | **Total** | | | **€134.88** | 
 
