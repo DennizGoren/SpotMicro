@@ -9,13 +9,13 @@ done with the use of Coach 7 and Python.
 
 The SolidWorks motion study modeled the following movements and returned the torques that were deliverd by the motors in the joints. 
 The results of this motion study are plotted in the graphs below. 
-<img src="Docs/StandUp-2.gif" width="1010"/>
+<img src="Docs/StandUp-2.gif" width="1008"/>
 <img src="Docs/Front_Wrist_Simultaneous.png" height="189"/><img src="Docs/Rear_Wrist_Simultaneous.png" height="189"/><img src="Docs/Front_Elbow_Simultaneous.png" height="189"/><img src="Docs/Front_Elbow_Simultaneous.png" height="189"/>
 
 The peak in motor torque is 732 N-mm and witnessed in the wrists of the front legs of the robot.  
 
-![Rear first rise simulation SolidWorks](Docs/RearFirst-2.gif)
-<img src="Docs/Front_Wrist_RearFirst.png" height="185"/><img src="Docs/Rear_Wrist_RearFirst.png" height="185"/><img src="Docs/Front_Elbow_Rearfirst.png" height="185"/><img src="Docs/Rear_Elbow_RearFirst.png" height="185"/>
+<img src="Docs/RearFirst-2.gif" width="1008"/>
+<img src="Docs/Front_Wrist_RearFirst.png" height="189"/><img src="Docs/Rear_Wrist_RearFirst.png" height="189"/><img src="Docs/Front_Elbow_Rearfirst.png" height="189"/><img src="Docs/Rear_Elbow_RearFirst.png" height="189"/>
 
 The peak in motor torque is 702 N-mm and witnessed in the wrists of the front legs of the robot.  
 
